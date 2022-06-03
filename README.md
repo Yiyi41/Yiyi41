@@ -43,14 +43,14 @@ function growUp() {
    
 
 
-<h4 align="center"> [Airbnb clone](https://expo.dev/@yiyi41/NavApp?serviceType=classic&distribution=expo-go)</h4>
+#### [Airbnb clone](https://expo.dev/@yiyi41/NavApp?serviceType=classic&distribution=expo-go)
 ###### 👉 [Frontend repo](https://github.com/Yiyi41/Airbnb)
-*<h5 align="center">Projet Mobile Front ▶︎▶︎ Signin | Signup | Favoris | Review</h5>*
-*<h5 align="center">Stacks ▶︎▶︎ React Native | Expo | JS  </h5>*</p>
+*<h5 align="left">Projet Mobile Front ▶︎▶︎ Upload image | Update userInfo in Modal | Map | Geolocalization | Signin | Signup</h5>*
+*<h5 align="left">Stacks ▶︎▶︎ React Native | Expo | JS  </h5>*</p>
 
 
 <p align="center" >
-<img align="center" width="300" src="https://res.cloudinary.com/dps4zteie/image/upload/v1654267620/airbnb-demo_p8ghxq.gif"/>
+<img align="center" width="300" src="https://res.cloudinary.com/dps4zteie/image/upload/v1654269436/airbnb-demo_mi4tno.gif"/>
   
   
   
@@ -68,7 +68,7 @@ function growUp() {
 <img align="left" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  />
 <img align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />         
-<img align="left" width="80" height="40" src="https://flaviocopes.com/netlify/netlify-logo.png" />
+<img align="left" width="90" height="40" src="https://flaviocopes.com/netlify/netlify-logo.png" />
 <img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 	</p>    
 

@@ -38,18 +38,20 @@ function growUp() {
 	
 <p align="center" >
 <img align="center" width="900" src="https://res.cloudinary.com/dps4zteie/image/upload/v1654034764/ezgif.com-gif-maker_2_xi6t94.gif"/>
-</p>  
+</p>     
+   
+   
 
 
-#### [Airbnb clone](https://expo.dev/@yiyi41/NavApp?serviceType=classic&distribution=expo-go)
+<h4 align="center"> [Airbnb clone](https://expo.dev/@yiyi41/NavApp?serviceType=classic&distribution=expo-go)</h4>
 ###### 👉 [Frontend repo](https://github.com/Yiyi41/Airbnb)
-*<h5 align="left">Projet Mobile Front ▶︎▶︎ Signin | Signup | Favoris | Review</h5>*
-*<h5 align="left">Stacks ▶︎▶︎ React Native | Expo | JS  </h5>*
+*<h5 align="center">Projet Mobile Front ▶︎▶︎ Signin | Signup | Favoris | Review</h5>*
+*<h5 align="center">Stacks ▶︎▶︎ React Native | Expo | JS  </h5>*</p>
 
 
 <p align="center" >
 <img align="center" width="300" src="https://res.cloudinary.com/dps4zteie/image/upload/v1654267620/airbnb-demo_p8ghxq.gif"/>
-</p>  
+  
   
   
   

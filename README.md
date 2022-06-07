@@ -24,6 +24,7 @@ function growUp() {
 }
 
 ```
+<br/>
 
 
 <h2> 👀 Projets réalisés</h2>
@@ -70,7 +71,12 @@ function growUp() {
 <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />         
 <img align="left" width="90" height="40" src="https://flaviocopes.com/netlify/netlify-logo.png" />
 <img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-	</p>    
+	</p><br/>
+
+<br/>
+<br/>
+
+## 👉 [Linkedin](https://www.linkedin.com/in/yiyi-plantinet/)
 
   
 

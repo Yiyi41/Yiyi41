@@ -1,13 +1,13 @@
-<h1 align="left">Bonjour 🌈, Je suis Yiyi junior React developer</h1>
+<h1 align="left">Bonjour 🌈, Je suis Yiyi, junior React developer</h1>
 
 <h2>👀 Quelques mots sur moi</h2>
 
 <h4>▶︎▶︎▶︎▶︎▶︎</h4>
   
 ```javascript
-yiyi = [contemporaryArt, luxuryComsmetic]
+yiyi = [contemporaryArt, luxuryCosmetic]
 yiyi.push(devWeb)
-new yiyi = [contemporaryArt, luxuryComsmetic, devWeb]
+new yiyi = [contemporaryArt, luxuryCosmetic, devWeb]
 
 // 🚀 Après 15 ans dans l'art et luxe, j'ai pris un grand virage dans ma vie: apprendre à coder    
 // pour devenir développeuse fullstack et mobile! Toutes les lignes de code

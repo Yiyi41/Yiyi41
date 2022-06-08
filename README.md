@@ -5,9 +5,10 @@
 <h4>▶︎▶︎▶︎▶︎▶︎</h4>
   
 ```javascript
-yiyi = [contemporaryArt, luxuryCosmetic]
-yiyi.push(devWeb)
-new yiyi = [contemporaryArt, luxuryCosmetic, devWeb]
+const yiyi = ["contemporaryArt", "luxuryCosmetic"];
+yiyi.push("devWeb");
+console.log(yiyi); //[ 'contemporaryArt', 'luxuryCosmetic', 'devWeb' ]
+
 
 // 🚀 Après 15 ans dans l'art et luxe, j'ai pris un grand virage dans ma vie: apprendre à coder    
 // pour devenir développeuse fullstack et mobile! Toutes les lignes de code

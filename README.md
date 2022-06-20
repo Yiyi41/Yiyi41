@@ -21,7 +21,7 @@ function growUp() {
   if(yiyiAsJuniorDev.internship > 0){
     return console.log("I grow quickly !");
   }
- return console.log("Don't be sad and continue coding 💪 ");
+ return console.log("Keep calm and carry on! (keep coding)💪 ");
 }
 
 ```

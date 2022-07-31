@@ -14,7 +14,7 @@ console.log(yiyi); //[ 'contemporaryArt', 'luxuryCosmetic', 'devWeb' ]
 // pour devenir développeuse fullstack et mobile! Toutes les lignes de code
 // deviennent des choses concrètes qui me fascinent!
 
-// 🌱 Pour bien grandir dans le métier, je cherche actuellement une société pour m'adopter 🍎
+// 🌱 Pour bien grandir dans le métier, je cherche actuellement ma première expérience du dev :)
 
 const yiyiAsJuniorDev = new Object();
 function growUp() {

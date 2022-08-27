@@ -1,4 +1,4 @@
-<h1 align="left">Bonjour 🌈, Je suis Yiyi, junior React developer</h1>
+<h1 align="left">Bonjour 🌈, Je suis Yiyi, développeuse full stack junior</h1>
 
 <h2>👀 Quelques mots sur moi</h2>
 

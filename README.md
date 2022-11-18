@@ -16,14 +16,6 @@ console.log(yiyi); //[ 'contemporaryArt', 'luxuryCosmetic', 'devWeb' ]
 
 // 🌱 Pour bien grandir dans le métier, je cherche actuellement ma première expérience du dev :)
 
-const yiyiAsJuniorDev = new Object();
-function growUp() {
-  if(yiyiAsJuniorDev.internship > 0){
-    return console.log("I grow quickly !");
-  }
- return console.log("Keep calm and carry on! (coding)💪 ");
-}
-
 ```
 <br/>
 

@@ -1,4 +1,4 @@
-<h1 align="left">Bonjour 🌈, Je suis Yiyi, développeuse full stack junior</h1>
+<h1 align="left">Bonjour 🌈, Je suis Yiyi, développeuse frontend junior</h1>
 
 <h2>👀 Quelques mots sur moi</h2>
 
@@ -11,7 +11,7 @@ console.log(yiyi); //[ 'contemporaryArt', 'luxuryCosmetic', 'devWeb' ]
 
 
 // 🚀 Après 15 ans dans l'art et luxe, j'ai pris un grand virage dans ma vie: apprendre à coder    
-// pour devenir développeuse fullstack et mobile! Toutes les lignes de code
+// pour devenir développeuse! Toutes les lignes de code
 // deviennent des choses concrètes qui me fascinent!
 
 

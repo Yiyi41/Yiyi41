@@ -61,7 +61,7 @@ console.log(yiyi); //[ 'contemporaryArt', 'luxuryCosmetic', 'devWeb' ]
 <img align="left" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  />
 <img align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />         
-<img align="left" width="90" height="40" src="https://flaviocopes.com/netlify/netlify-logo.png" />
+<img align="left" width="90" height="40" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 	</p><br/>
 

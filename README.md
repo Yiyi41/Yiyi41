@@ -10,7 +10,7 @@
 
 
 
-[![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png | width=60 )](https://web-atrio.com/)
+[![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
 [![gamepad](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad-logo.png)](https://my-projet-gamepad.netlify.app/)
 
 

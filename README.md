@@ -9,8 +9,9 @@
 <h3>click icons to visit projets or to link to repo</p>
 
 <p>
-<img align="left" width="50" height="50" src="/assets/web-atrio-logo.png"/>
-<img align="left" width="55" height="50" src="/assets/gampad-logo.png" />
+<!-- <img align="left" width="60" height="50" src="/assets/web-atrio-logo.png"/> -->
+[![Logo](/assets/web-atrio-logo.png)](https://web-atrio.com/)
+<img align="left" width="50" height="50" src="/assets/gampad-logo.png" />
 	</p><br/>
 
 <br/>

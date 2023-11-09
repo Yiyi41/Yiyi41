@@ -11,8 +11,8 @@
 <p>
 
 [![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
+[![gamepad](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad-logo.png)](https://my-projet-gamepad.netlify.app/)
 
-<img align="left" width="50" height="50" src="/assets/gampad-logo.png" />
 	</p><br/>
 
 <br/>

@@ -7,7 +7,7 @@
 
 <h2> 👀 Projets réalisés</h2>
 
-<p align="left">click icon to visit projets or to link to repo</p>
+<h3>click icon to visit projets or to link to repo</p>
 	
 #### [Click to visit the projet](https://my-projet-gamepad.netlify.app/)
 👉 [Link to frontend repo](https://github.com/Yiyi41/GamePad-frontend)

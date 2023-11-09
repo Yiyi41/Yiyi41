@@ -1,4 +1,4 @@
-<h1 align="left">Bonjour 🌈, Je suis Yiyi, développeuse frontend junior</h1>
+<h1 align="left">Bonjour 🌈, Je suis Yiyi, développeuse frontend</h1>
 
 <h2>👀 Quelques mots sur moi</h2>
   
@@ -9,6 +9,8 @@
 
 
 <h2> 👀 Projets réalisés</h2>
+
+<p>click icon to visit projets or to link to repo</p>
 	
 #### [Click to visit the projet](https://my-projet-gamepad.netlify.app/)
 👉 [Link to frontend repo](https://github.com/Yiyi41/GamePad-frontend)

@@ -10,8 +10,7 @@
 
 <p>
 
-[![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/))
-
+[![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
 
 <img align="left" width="50" height="50" src="/assets/gampad-logo.png" />
 	</p><br/>

@@ -11,7 +11,7 @@
 <p>
 <img align="left" width="60" height="50" src="/assets/web-atrio-logo.png"/>
 <!-- [<img align="left" width="60" height="50" src="/assets/web-atrio-logo.png"/>](https://web-atrio.com/) -->
-<img align="left" width="60" height="60" src="/assets/gampad-logo.png" />
+<img align="left" width="60" height="50" src="/assets/gampad-logo.png" />
 	</p><br/>
 
 <br/>

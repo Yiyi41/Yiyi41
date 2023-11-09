@@ -10,9 +10,9 @@
 
 <h2> 👀 Projets réalisés</h2>
 	
-#### [Gamepad](https://my-projet-gamepad.netlify.app/)
-###### 👉 [Frontend repo](https://github.com/Yiyi41/GamePad-frontend)
-###### 👉 [Backend repo](https://github.com/Yiyi41/GamePad-backend)
+#### [Click to visit the projet](https://my-projet-gamepad.netlify.app/)
+👉 [Link to frontend repo](https://github.com/Yiyi41/GamePad-frontend)
+👉 [Link to backend repo](https://github.com/Yiyi41/GamePad-backend)
 *<h5 align="right">Projet Fullstack ▶︎▶︎ Signin | Signup | Favoris | Review</h5>*
 *<h5 align="right">Stacks ▶︎▶︎ Nodejs | Express | React | JS | mongoDB | Heroku | Netlify  </h5>*
 

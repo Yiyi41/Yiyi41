@@ -11,7 +11,7 @@
 
 
 [![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
-[![gamepad](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad-logo.png)](https://my-projet-gamepad.netlify.app/)
+[![gamepad](https://res.cloudinary.com/dps4zteie/image/upload/v1699547587/gampad-logo_ia39qx.png)](https://my-projet-gamepad.netlify.app/)
 
 
 

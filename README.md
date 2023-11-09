@@ -8,14 +8,11 @@
 
 <h3>click icons to visit projets or to link to repo</p>
 
-<p>
+
 
 [![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
 [![gamepad](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad-logo.png)](https://my-projet-gamepad.netlify.app/)
 
-	</p><br/>
 
-<br/>
-<br/>
 
 ## 👉 [Linkedin](https://www.linkedin.com/in/yiyi-plantinet/)

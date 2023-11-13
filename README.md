@@ -12,9 +12,9 @@
   [![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
 </p>
 
-
+<p width="100" height="100">
 [![gamepad](https://res.cloudinary.com/dps4zteie/image/upload/v1699547587/gampad-logo_ia39qx.png)](https://my-projet-gamepad.netlify.app/)
-
+</p>
 
 
 ## 👉 [Linkedin](https://www.linkedin.com/in/yiyi-plantinet/)

@@ -8,9 +8,11 @@
 
 <h3>click icons to visit projets or to link to repo</p>
 
+<p width="100" height="100">
+  [![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
+</p>
 
 
-[![web-atrio](https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png)](https://web-atrio.com/)
 [![gamepad](https://res.cloudinary.com/dps4zteie/image/upload/v1699547587/gampad-logo_ia39qx.png)](https://my-projet-gamepad.netlify.app/)
 
 

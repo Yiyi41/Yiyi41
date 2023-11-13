@@ -6,15 +6,14 @@
 
 <h2> 👀 Projets réalisés</h2>
 
-<h3>click icons to visit projets or to link to repo</p>
 
 
-  [![web-atrio](<img src="https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png" alt="logo web-atrio" width="100" height="80">)](https://web-atrio.com/)
+<img src="https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png" alt="logo web-atrio" width="100" height="80">)
 
- 
+ <img src="https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad.png" alt="logo web-atrio" width="100" height="80">)
 
 
-[![gamepad](https://res.cloudinary.com/dps4zteie/image/upload/v1699547587/gampad-logo_ia39qx.png)](https://my-projet-gamepad.netlify.app/)
+
 
 
 

@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/web-atrio-logo.png" alt="logo web-atrio" width="100" height="80">
 
- <img src="https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad-logo.png" alt="logo web-atrio" width="100" height="120">
+ <img src="https://raw.githubusercontent.com/yiyi41/yiyi41/main/assets/gampad-logo.png" alt="logo web-atrio" width="120" height="120">
 
 
 
